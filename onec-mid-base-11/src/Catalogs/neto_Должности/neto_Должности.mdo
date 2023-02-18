@@ -10,7 +10,7 @@
   <name>neto_Должности</name>
   <synonym>
     <key>ru</key>
-    <value>Neto должности</value>
+    <value>Должности</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.neto_Должности.StandardAttribute.Code</inputByString>
@@ -19,6 +19,10 @@
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
   <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Должность</value>
+  </objectPresentation>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
   <codeLength>9</codeLength>
